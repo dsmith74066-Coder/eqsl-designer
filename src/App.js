@@ -71,17 +71,17 @@ export default function App() {
   const [vars, setVars] = useState({
     callsign: "KJ5LVN",
     operatorName: "David",
-    qth: "Sapulpa, Oklahoma",
+    Location: "Sapulpa, Oklahoma",
     grid: "EM25",
     ituZone: "7",
     cqZone: "4",
     dateUTC: utc.date,
     timeUTC: utc.time,
-    frequency: "446.500",
+    frequency: "442.47500",
     band: "70cm",
     mode: "DMR",
     rst: "59",
-    contactName: "W1AW",
+    contactName: "W5IAS",
     comments: "Thanks for the QSO! 73"
   });
 
