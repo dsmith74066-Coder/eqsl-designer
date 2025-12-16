@@ -17,6 +17,7 @@ const backgroundImages = [
   { name: "Oklahoma Flag", file: "FlagOklahoma.png" },
   { name: "Native QSL", file: "qslCardNative.png" },
   { name: "Eagle", file: "qslEagle.png" },
+  { name: "QSLPuppy1", file: "QSLPuppy1.png" },
   { name: "Christmas", file: "qslxmas.png" },
   { name: "Christmas1", file: "qslxmas1.png" },
   { name: "Christmas2", file: "qslxmas2.png" },
