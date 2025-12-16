@@ -216,7 +216,7 @@ export default function App() {
   };
 
   // Station info fields
-  const stationFields = ['callsign', 'operatorName', 'Location', 'grid', 'ituZone', 'cqZone'];
+  const stationFields = ['callsign', 'Operator Name', 'Location', 'grid', 'ituZone', 'cqZone'];
   // QSO detail fields
   const qsoFields = ['contactName', 'dateUTC', 'timeUTC', 'frequency', 'band', 'mode', 'rst', 'comments'];
 
